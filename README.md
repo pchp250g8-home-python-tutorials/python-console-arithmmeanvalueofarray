@@ -1,5 +1,5 @@
-A console application project written in Python and implemented in the Microsoft Visual Studio Code Editor. Python Script. Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
-
+A console application project written in Python and implemented in the Spyder IDE (in the Microsoft Visual Studio Code Editor). 
+Python Script. Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
 The program does the following:
 1. Prompts the user for the number of elements in the array.
 2. Allocates memory and creates an array of integers from the number of elements previously entered.
@@ -7,4 +7,13 @@ The program does the following:
 4. Calculates the sum of the received elements.
 5. Divides the result by the number of elements in the array.
 
+
 Занятия по Python. Консольное приложение. Простой Ввод/ввывод. Массивы. Алгоритмы.
+Консольное приложение разработано в интегрированной среде Spyder (в редакторе Microsoft Visual Studio Code) на языке прораммирования Python. 
+Реализованы простой ввод/вывод, работа с массивами и случайными числами. Рассчет среднего арифметического значения элементов массива.
+Данная программа делает следующее:
+  1. Запрашивает у пользователя ввод количества элеметов массива.
+  2. Выделяет память и создаёт массив из целых чисел, количество которых было введено ранее.
+  3 .Заполняет созданный массив случайными целыми положительными числами в промежутке от 1 до 100.
+  4. Вычисляет сумму полученных элементов.
+  5. Делит результат на число элементов массива.
