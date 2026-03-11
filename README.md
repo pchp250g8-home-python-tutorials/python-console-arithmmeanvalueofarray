@@ -1,3 +1,4 @@
+ArithmMeanValueOfArray. Python tutorials. Arrays. Algorithms. Input/Output. Console Application. 
 A console application project written in Python and implemented in the Spyder IDE (in the Microsoft Visual Studio Code Editor). 
 Python Script. Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
 The program does the following:
@@ -8,7 +9,7 @@ The program does the following:
 5. Divides the result by the number of elements in the array.
 
 
-Занятия по Python. Консольное приложение. Простой Ввод/ввывод. Массивы. Алгоритмы.
+ArithmMeanValueOfArray. Занятия по Python. Консольное приложение. Простой Ввод/ввывод. Массивы. Алгоритмы.
 Консольное приложение разработано в интегрированной среде Spyder (в редакторе Microsoft Visual Studio Code) на языке прораммирования Python. 
 Реализованы простой ввод/вывод, работа с массивами и случайными числами. Рассчет среднего арифметического значения элементов массива.
 Данная программа делает следующее:
